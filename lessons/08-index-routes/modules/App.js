@@ -1,5 +1,6 @@
 import React from 'react'
 import NavLink from './NavLink'
+import Home from './Home'
 
 export default React.createClass({
   render() {
